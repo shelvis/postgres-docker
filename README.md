@@ -1,6 +1,6 @@
 # Postgres for Docker with locale de_DE.UTF-8
 
-[![Docker Build Status](https://img.shields.io/docker/build/shelvis/postgres-docker.svg)](https://hub.docker.com/r/shelvis/postgres-docker/builds/)
+[![Docker Build Status](https://img.shields.io/docker/build/shelvis/postgres.svg)](https://hub.docker.com/r/shelvis/postgres-docker/builds/)
 
 This is a customized docker build with german localization.
 
